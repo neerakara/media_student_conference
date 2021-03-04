@@ -10,7 +10,7 @@ Finally, we hope that such continuous exchange of ideas will foster better netwo
 
 The list of previous and upcoming talks is given below. Every Thursday's talk is added latest by Monday, while the links to the slides and the video are updated shortly after the talk. The link of the zoom meeting is shared via email. To be added to the email list, please write to nkarani at vision dot ee dot ethz dot ch.
 
-| Data        | Speaker             | Talk                                                             | Slides      | Video      |
+| Date        | Speaker             | Talk                                                             | Slides      | Video      |
 | ----------- | ------------------- | ---------------------------------------------------------------- | ----------- |----------- |
 | 04.03.2021  | Neerav Karani       | Deep learning methods for robust medical image segmentation      | slides      | video      |
 | 25.02.2021  | Bjoern Menze        | Talk                                                             | slides      | video      |
