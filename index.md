@@ -1,5 +1,11 @@
 ## A student conference for medical image analysis
 
+We are a group of academic research institutes working on analysis of medical images.
+We meet every Thursday from 14.30 to 15-30 CET, where a speaker presents one of their recently published articles.
+
+The motivations for this virtual conference are manifold: Firstly, this will allow researchers to make their work known to their colleagues.
+This has become difficult as there have been no physical conferences in the past year due to the pandemic, and this will likely remain the case for at least a year or so.
+
 <!--
 You can use the [editor on GitHub](https://github.com/neerakara/media_student_conference/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 --> 
