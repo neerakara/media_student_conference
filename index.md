@@ -1,6 +1,6 @@
 <br/>
 
-## [A student conference for medical image analysis](https://neerakara.github.io/media_student_conference/)
+## A student conference for medical image analysis
 
 We are a group of academic research institutes working on analysis of medical images.
 We meet every Thursday from 14.30 to 15-30 CET, where a speaker presents one of their recently published articles.
