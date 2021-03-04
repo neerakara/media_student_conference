@@ -3,8 +3,12 @@
 We are a group of academic research institutes working on analysis of medical images.
 We meet every Thursday from 14.30 to 15-30 CET, where a speaker presents one of their recently published articles.
 
-The motivations for this virtual conference are manifold: Firstly, this will allow researchers to make their work known to their colleagues.
+We hope that this virtual conference will provide a good platform for researchers to make their work known in the community.
 This has become difficult as there have been no physical conferences in the past year due to the pandemic, and this will likely remain the case for at least a year or so.
+Also, it is quite common in this field to publish directly in journals. We hope that such a weekly conference can substantially improve the visibility of journal articles.
+Finally, we hope that such continuous exchange of ideas will foster better networking, and allow us to see / reconnect with more faces while still sitting in our home offices.
+
+The list of previous and upcoming talks is given below. Every Thursday's talk is added latest by Monday, while the links to the slides and the video are updates shortly after the talk. The link of the zoom meeting is shared via email.
 
 <!--
 You can use the [editor on GitHub](https://github.com/neerakara/media_student_conference/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
