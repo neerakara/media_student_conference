@@ -12,7 +12,7 @@ The list of previous and upcoming talks is given below. Every Thursday's talk is
 
 | Date        | Speaker             | Talk                                                             | Slides      | Video      |
 | ----------- | ------------------- | ---------------------------------------------------------------- | ----------- |----------- |
-| 04.03.2021  | Neerav Karani       | Deep learning methods for robust medical image segmentation      | slides      | video      |
+| 04.03.2021  | Neerav Karani       | Deep learning methods for robust medical image segmentation      | [slides](https://github.com/neerakara/media_student_conference/blob/gh-pages/slides/NeeravKarani_robust-methods-for-medical-image-segmentation.pdf)  | video      |
 | 25.02.2021  | Bjoern Menze        | Talk                                                             | slides      | video      |
 
 
