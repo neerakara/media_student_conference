@@ -1,4 +1,4 @@
-$-$
+<br/><br/>
 
 ## A student conference for medical image analysis
 
