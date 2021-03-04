@@ -5,7 +5,7 @@
 We are a group of academic research institutes working on analysis of medical images.
 We meet every Thursday from 14.30 to 15-30 CET, where a speaker presents one of their recently published articles.
 
-We hope that this virtual conference will provide a good platform for researchers to make their work known in the community. This has become difficult as there have been no physical conferences in 2020 due to the pandemic, and this will likely remain to be the case in the near future. Also, it is quite common in our field to publish directly in journals, and we think that such a conference can substantially improve the visibility of journal articles. Finally, we hope that such continuous exchange of ideas will foster networking, and allow us to see / reconnect with people while still working from our home offices.
+We hope that this virtual conference will provide a good platform for researchers to make their work known in the community. This has become difficult as there were no physical conferences in 2020 due to the pandemic, and this will likely remain to be the case in the near future. Also, it is quite common in our field to publish directly in journals, and we think that such a conference can substantially improve the visibility of journal articles. Finally, we hope that such continuous exchange of ideas will foster networking, and allow us to see / reconnect with people while still working from our home offices.
 
 The list of previous and upcoming talks is given below. Every Thursday's talk is added latest by Monday, while the links to the slides and the video are updated shortly after the talk. The link of the zoom meeting is shared via email. To be added to the email list, please write to nkarani at vision dot ee dot ethz dot ch.
 
