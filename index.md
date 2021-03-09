@@ -9,11 +9,11 @@ We hope that this virtual conference will provide a good platform for researcher
 
 The list of previous and upcoming talks is given below. Every Thursday's talk is added latest by Monday, while the links to the slides and the video are updated shortly after the talk. The link of the zoom meeting is shared via email. If you would like to be added to the email list, please fill [this form](https://forms.gle/YSL88zvSKq1rgpW36).
 
-| Date        | Speaker             | Talk                                                             | Slides      | Video      |
-| ----------- | ------------------- | ---------------------------------------------------------------- | ----------- |----------- |
-| 11.03.2021  | Mauricio Reyes      | An interpretability-driven active sample selection approach | link | link |
-| 04.03.2021  | Neerav Karani       | Robust segmentation of medical images | [link](https://drive.google.com/file/d/1KqmM6_AYCz6QCvNNli04YYfnNQ4Z0xTw/view?usp=sharing) | link |
-| 25.02.2021  | Bjoern Menze        | Image-based modeling of tumour growth | [link](https://drive.google.com/file/d/1S1DPtmJAPfhlefqsQ5q656hh0VdvmXAX/view?usp=sharing) | link |
+| Date        | Speaker             | Talk                                                             | Paper       | Slides      | Video      |
+| ----------- | ------------------- | ---------------------------------------------------------------- | ----------- |-----------  |----------- |
+| 11.03.2021  | Mauricio Reyes      | An interpretability-driven active sample selection approach | [link](https://ieeexplore.ieee.org/document/9361645) | link | link |
+| 04.03.2021  | Neerav Karani       | Robust segmentation of medical images | [link](https://linkinghub.elsevier.com/retrieve/pii/S1361841520302711) | [link](https://drive.google.com/file/d/1KqmM6_AYCz6QCvNNli04YYfnNQ4Z0xTw/view?usp=sharing) | link |
+| 25.02.2021  | Bjoern Menze        | Image-based modeling of tumour growth | link | [link](https://drive.google.com/file/d/1S1DPtmJAPfhlefqsQ5q656hh0VdvmXAX/view?usp=sharing) | link |
 
 <!--
 The webpage corresponding to this markdown file is [this](https://neerakara.github.io/media_student_conference/).
