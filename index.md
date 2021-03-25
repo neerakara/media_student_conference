@@ -11,7 +11,7 @@ The list of previous and upcoming talks is given below. Every Thursday's talk is
 
 | Date        | Speaker             | Talk                                                             | Paper       | Slides      | Video      |
 | ----------- | ------------------- | ---------------------------------------------------------------- | ----------- |-----------  |----------- |
-| 25.03.2021  | Anton Becker        | Longitudinal analysis of brown fat in cancer patients | [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239990) | link | link |
+| 25.03.2021  | Anton Becker        | Longitudinal analysis of brown fat in cancer patients | [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239990) | link | [link](https://www.youtube.com/watch?v=G_RGmABmQzs) |
 | 11.03.2021  | Mauricio Reyes      | Interpretability-driven active sample selection | [link](https://ieeexplore.ieee.org/document/9361645) | [link](https://drive.google.com/file/d/1z7r0E1tBj4wbx5cNwsqYs-hZoxsvl2TL/view?usp=sharing) | link |
 | 04.03.2021  | Neerav Karani       | Robust segmentation of medical images | [link](https://linkinghub.elsevier.com/retrieve/pii/S1361841520302711) | [link](https://drive.google.com/file/d/1KqmM6_AYCz6QCvNNli04YYfnNQ4Z0xTw/view?usp=sharing) | link |
 | 25.02.2021  | Bjoern Menze        | Image-based modeling of tumour growth | link | [link](https://drive.google.com/file/d/1S1DPtmJAPfhlefqsQ5q656hh0VdvmXAX/view?usp=sharing) | link |
