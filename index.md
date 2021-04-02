@@ -22,7 +22,7 @@ The list of previous and upcoming talks is given below. Every Thursday's talk is
 | 01.04.2021  | [Meenakshi Khosla](https://www.meenakshikhosla.com/)    | Predicting cortical response to natural stimuli using deep learning | [link](https://www.biorxiv.org/content/10.1101/2020.09.11.293878v1.full.pdf) | [link](https://drive.google.com/file/d/1f9ZapAmuQYqIqS_hvgAJEMqT5uEzyXXZ/view?usp=sharing) | link |
 | 25.03.2021  | [Anton Becker](https://scholar.google.ch/citations?user=WWcqtdQAAAAJ&hl=en)        | Longitudinal analysis of brown fat in cancer patients | [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239990) | link | link |
 | 11.03.2021  | [Mauricio Reyes](http://www.mauricioreyes.me/aboutme.html)      | Interpretability-driven active sample selection | [link](https://ieeexplore.ieee.org/document/9361645) | [link](https://drive.google.com/file/d/1z7r0E1tBj4wbx5cNwsqYs-hZoxsvl2TL/view?usp=sharing) | link |
-| 04.03.2021  | [Neerav Karani](https://neerakara.github.io/)       | Robust segmentation of medical images | [link](https://linkinghub.elsevier.com/retrieve/pii/S1361841520302711) | [link](https://drive.google.com/file/d/1KqmM6_AYCz6QCvNNli04YYfnNQ4Z0xTw/view?usp=sharing) | link |
+| 04.03.2021  | [Neerav Karani](https://neerakara.github.io/)       | Robust segmentation of medical images | [link](https://linkinghub.elsevier.com/retrieve/pii/S1361841520302711) | [link](https://drive.google.com/file/d/1YpR7Qk69hBEtj5zLPTwc73ZMwRfryiq5/view?usp=sharing) | link |
 | 25.02.2021  | [Bjoern Menze](http://home.in.tum.de/~menze/)        | Image-based modeling of tumour growth | link | [link](https://drive.google.com/file/d/1S1DPtmJAPfhlefqsQ5q656hh0VdvmXAX/view?usp=sharing) | link |
 
 <!--
