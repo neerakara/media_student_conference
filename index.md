@@ -13,7 +13,7 @@ The list of previous and upcoming talks is given below. Every Thursday's talk is
 
 | Date        | Speaker             | Talk                                                             | Paper       | Slides      | Video      |
 | ----------- | ------------------- | ---------------------------------------------------------------- | ----------- |-----------  |----------- |
-| 27.05.2021  | [Miguel Monteiro](https://scholar.google.com/citations?user=LyabfXcAAAAJ&hl=en)    | Uncertainty Modeling in Image Segmentation | [link](https://arxiv.org/pdf/2006.06015.pdf) | link | link |
+| 27.05.2021  | [Miguel Monteiro](https://scholar.google.com/citations?user=LyabfXcAAAAJ&hl=en)    | Uncertainty modeling in image segmentation | [link](https://arxiv.org/pdf/2006.06015.pdf) | link | link |
 | 20.05.2021  | [Adrian Dalca](http://www.mit.edu/~adalca/index.html)    | TBD | link | link | link |
 | 06.05.2021  | [Stanley Durrleman](https://who.rocq.inria.fr/Stanley.Durrleman/#)   | TBD | link | link | link |
 | 29.04.2021  | [Marc Niethammer](https://biag.cs.unc.edu/author/marc-niethammer/)    | TBD | link | link | link |
