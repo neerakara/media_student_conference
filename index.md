@@ -4,7 +4,7 @@
 
 ## A student conference for medical image analysis
 
-We are a group of academic research institutes working on analysis of medical images.
+[comment]: <> (We are a group of academic research institutes working on analysis of medical images.)
 We meet every Thursday from 14.30 to 15.30 CET, where a speaker presents one of their recently published articles.
 
 We hope that this virtual conference will provide a platform for researchers to make their work known in the community. This has become difficult as there were no physical conferences in 2020 due to the pandemic, and this will likely remain to be the case in the near future. Also, it is common in our field to publish directly in journals. We think such a conference can substantially improve the visibility of journal articles. Finally, we hope that such continuous exchange of ideas will foster networking, and allow us to see / reconnect with people while still working from our home offices.
