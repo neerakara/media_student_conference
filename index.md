@@ -2,7 +2,7 @@
 
 [home](https://neerakara.github.io/media_student_conference/)
 
-## A student conference for medical image analysis
+## A Student Conference For Medical Image Analysis
 
 We are a group of academic research institutes working on analysis of medical images.
 We meet every Thursday afternoon (CET), where a speaker presents one of their recently published articles.
@@ -18,17 +18,17 @@ The list of previous and upcoming talks is given below. Every Thursday's talk is
 | 17.06.2021  | | [Valery Vishnevski](https://scholar.google.ch/citations?hl=en&user=1fGojj4AAAAJ&view_op=list_works&sortby=pubdate)   | TBD | link | link | link |
 | 10.06.2021  | | [Marco Lorenzi](https://marcolorenzi.github.io/)   | TBD | link | link | link |
 | 03.06.2021  | | Jan   | TBD | link | link | link |
-| 27.05.2021  | | [Miguel Monteiro](https://scholar.google.com/citations?user=LyabfXcAAAAJ&hl=en)    | Uncertainty modeling in image segmentation | [link](https://arxiv.org/pdf/2006.06015.pdf) | link | link |
+| 27.05.2021  | | [Miguel Monteiro](https://scholar.google.com/citations?user=LyabfXcAAAAJ&hl=en)    | Uncertainty Modeling in Image Segmentation | [link](https://arxiv.org/pdf/2006.06015.pdf) | link | link |
 | 20.05.2021  | | [Adrian Dalca](http://www.mit.edu/~adalca/index.html)    | TBD | link | link | link |
 | 06.05.2021  | | [Stanley Durrleman](https://who.rocq.inria.fr/Stanley.Durrleman/#)   | TBD | link | link | link |
 | 29.04.2021  | | [Marc Niethammer](https://biag.cs.unc.edu/author/marc-niethammer/)    | TBD | link | link | link |
 | 22.04.2021  | | [Meritxell Bach Cuadra](https://wp.unil.ch/mial/team/meritxell-bach-cuadra/)    | TBD | link | link | link |
 | 15.04.2021  | 15:00 | [Akshay Chaudhari](https://profiles.stanford.edu/akshay-chaudhari)    | Data-Efficient AI for Accelerated MRI Acquisition | [link](https://arxiv.org/pdf/2102.06103.pdf) | link | link |
-| 01.04.2021  | 14:30 | [Meenakshi Khosla](https://www.meenakshikhosla.com/)    | Predicting cortical response to natural stimuli using deep learning | [link](https://www.biorxiv.org/content/10.1101/2020.09.11.293878v1.full.pdf) | [link](https://drive.google.com/file/d/1f9ZapAmuQYqIqS_hvgAJEMqT5uEzyXXZ/view?usp=sharing) | link |
-| 25.03.2021  | 14:30 | [Anton Becker](https://scholar.google.ch/citations?user=WWcqtdQAAAAJ&hl=en)        | Longitudinal analysis of brown fat in cancer patients | [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239990) | link | link |
-| 11.03.2021  | 14:30 | [Mauricio Reyes](http://www.mauricioreyes.me/aboutme.html)      | Interpretability-driven active sample selection | [link](https://ieeexplore.ieee.org/document/9361645) | [link](https://drive.google.com/file/d/1z7r0E1tBj4wbx5cNwsqYs-hZoxsvl2TL/view?usp=sharing) | link |
-| 04.03.2021  | 14:30 | [Neerav Karani](https://neerakara.github.io/)       | Robust segmentation of medical images | [link](https://linkinghub.elsevier.com/retrieve/pii/S1361841520302711) | [link](https://drive.google.com/file/d/1YpR7Qk69hBEtj5zLPTwc73ZMwRfryiq5/view?usp=sharing) | link |
-| 25.02.2021  | 14:30 | [Bjoern Menze](http://home.in.tum.de/~menze/)        | Image-based modeling of tumour growth | link | [link](https://drive.google.com/file/d/1S1DPtmJAPfhlefqsQ5q656hh0VdvmXAX/view?usp=sharing) | link |
+| 01.04.2021  | 14:30 | [Meenakshi Khosla](https://www.meenakshikhosla.com/)    | Predicting Cortical Response to Natural Stimuli using Deep Learning | [link](https://www.biorxiv.org/content/10.1101/2020.09.11.293878v1.full.pdf) | [link](https://drive.google.com/file/d/1f9ZapAmuQYqIqS_hvgAJEMqT5uEzyXXZ/view?usp=sharing) | link |
+| 25.03.2021  | 14:30 | [Anton Becker](https://scholar.google.ch/citations?user=WWcqtdQAAAAJ&hl=en)        | Longitudinal Analysis of Brown Fat in Cancer Patients | [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239990) | link | link |
+| 11.03.2021  | 14:30 | [Mauricio Reyes](http://www.mauricioreyes.me/aboutme.html)      | Interpretability-driven Active Sample Selection | [link](https://ieeexplore.ieee.org/document/9361645) | [link](https://drive.google.com/file/d/1z7r0E1tBj4wbx5cNwsqYs-hZoxsvl2TL/view?usp=sharing) | link |
+| 04.03.2021  | 14:30 | [Neerav Karani](https://neerakara.github.io/)       | Robust Segmentation of Medical Images | [link](https://linkinghub.elsevier.com/retrieve/pii/S1361841520302711) | [link](https://drive.google.com/file/d/1YpR7Qk69hBEtj5zLPTwc73ZMwRfryiq5/view?usp=sharing) | link |
+| 25.02.2021  | 14:30 | [Bjoern Menze](http://home.in.tum.de/~menze/)        | Image-based Modeling of Tumour Growth | link | [link](https://drive.google.com/file/d/1S1DPtmJAPfhlefqsQ5q656hh0VdvmXAX/view?usp=sharing) | link |
 
 <!--
 The webpage corresponding to this markdown file is [this](https://neerakara.github.io/media_student_conference/).
