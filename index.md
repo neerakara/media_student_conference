@@ -12,7 +12,7 @@ The talk is for roughly 30 minutes, followed by a discussion for 30 to 45 minute
 
 The list of previous and upcoming talks is given below. Every Thursday's talk is added by Monday, while the links to the slides and the video are updated shortly after the talk. The link of the zoom meeting is shared via email. If you would like to be added to the email list, please fill [this form](https://forms.gle/YSL88zvSKq1rgpW36).
 
-| Date        | Time        | Speaker             | Talk                                                             | Paper       | Slides      | Video      |
+| Date        | Time (CET)  | Speaker             | Talk                                                             | Paper       | Slides      | Video      |
 | ----------- | ------------|-------------------- | ---------------------------------------------------------------- | ----------- |-----------  |----------- |
 | 24.06.2021  | | [Herve Lombaert](https://profs.etsmtl.ca/hlombaert/)   | TBD | link | link | link |
 | 17.06.2021  | | [Valery Vishnevski](https://scholar.google.ch/citations?hl=en&user=1fGojj4AAAAJ&view_op=list_works&sortby=pubdate)   | TBD | link | link | link |
