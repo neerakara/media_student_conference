@@ -8,9 +8,7 @@ We are a group of academic research institutes working on analysis of medical im
 We meet every Thursday afternoon (CET), where a speaker presents one of their recently published articles.
 The talk is for roughly 30 minutes, followed by a discussion for 30 to 45 minutes.
 
-[comment]: <> (We hope that this virtual conference will provide a platform for researchers to make their work known in the community. This has become difficult as there were no physical conferences in 2020 due to the pandemic, and this will likely remain to be the case in the near future. Also, it is common in our field to publish directly in journals. We think such a conference can substantially improve the visibility of journal articles. Finally, we hope that such continuous exchange of ideas will foster networking, and allow us to see / reconnect with people while still working from our home offices.
-
-The link of the zoom meeting is shared via email. If you would like to be added to the email list, please fill [this form](https://forms.gle/YSL88zvSKq1rgpW36).)
+[comment]: <> (We hope that this virtual conference will provide a platform for researchers to make their work known in the community. This has become difficult as there were no physical conferences in 2020 due to the pandemic, and this will likely remain to be the case in the near future. Also, it is common in our field to publish directly in journals. We think such a conference can substantially improve the visibility of journal articles. Finally, we hope that such continuous exchange of ideas will foster networking, and allow us to see / reconnect with people while still working from our home offices.)
 
 The list of previous and upcoming talks is given below. Every Thursday's talk is added by Monday, while the links to the slides and the video are updated shortly after the talk. [This](https://ethz.zoom.us/j/92533050789?pwd=QldJSjVsOUhWUmxidGRLRE1VLzFYZz09) is the meeting link.
 
