@@ -15,6 +15,7 @@ The list of previous and upcoming talks is given below. Every Thursday's talk is
 
 | Date        | Time (CET)  | Speaker             | Talk                                                             | Paper       | Slides      | Video      |
 | ----------- | ------------|-------------------- | ---------------------------------------------------------------- | ----------- |-----------  |----------- |
+| 01.07.2021  | | [Angelica Aviles-Rivero](https://angelicaiaviles.wordpress.com/)   | TBD | link | link | link |
 | 24.06.2021  | | [Herve Lombaert](https://profs.etsmtl.ca/hlombaert/)   | TBD | link | link | link |
 | 17.06.2021  | | [Valery Vishnevski](https://scholar.google.ch/citations?hl=en&user=1fGojj4AAAAJ&view_op=list_works&sortby=pubdate)   | TBD | link | link | link |
 | 10.06.2021  | | [Marco Lorenzi](https://marcolorenzi.github.io/)   | TBD | link | link | link |
