@@ -1,6 +1,6 @@
 <br/>
 
-[home](https://neerakara.github.io/media_student_conference/)
+[New Website](https://bmic-student-conference.github.io/)
 
 ## A Student Conference For Medical Image Analysis
 
